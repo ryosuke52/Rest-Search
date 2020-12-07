@@ -12,7 +12,7 @@ const RestaurantList = (props) => {
                  <div className="ui doubling grid">
                   <img src={restaurant.image_url.shop_image1} width="350px" height="300px"/>
                   <div className="kuchikomi-info">
-                   <div className="kuchikomi-container"　style={{marginLeft: '40px', marginTop: '100px'}}>
+                   <div className="kuchikomi-container"　style={{marginLeft: '34px', marginTop: '100px'}}>
                    <p style={{textAlign: 'center'}}>{restaurant.name}</p>
                    <p className="mese" style={{textAlign: 'center'}}>口コミ・予約情報はこちら</p>
                    <div className="button" style={{marginTop: "30px"}}>
