@@ -25,6 +25,7 @@
 * インフラ　      →   AWS
 * 言語　          →   HTML / CSS / JavaScript 
 * フレームワーク  →   React / Semantic UI
+* デプロイ　　　　→    S3 / CloudFront 
 
 
 ## 4. アプリケーションの使用方法
